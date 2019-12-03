@@ -15,10 +15,23 @@ body{
     height: 600px;
 }
 
-.swiper-slide{
-    background: #adaaa8;
-}
-
 .swiper-pagination-bullet-active{
     background: white;
+}
+
+.pic1{
+    background: url('./pic/KakaoTalk_20191204_002844793_01.jpg') no-repeat 50%;
+    background-size: contain;
+}
+.pic2{
+    background: url('./pic/KakaoTalk_20191204_002844793_02.jpg') no-repeat 50%;
+    background-size: contain;
+}
+.pic3{
+    background: url('./pic/KakaoTalk_20191204_002844793_03.jpg') no-repeat 50%;
+    background-size: contain;
+}
+.pic4{
+    background: url('./pic/KakaoTalk_20191204_002844793_04.jpg') no-repeat 50%;
+    background-size: contain;
 }
