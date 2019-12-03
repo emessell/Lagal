@@ -1,0 +1,24 @@
+@font-face { font-family: '국립박물관문화재단클래식B'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/국립박물관문화재단클래식B.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+body{
+    background: #323436;
+    color: #fff;
+    font-family: 국립박물관문화재단클래식B;
+    margin: 5vw;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.swiper-container{
+    height: 600px;
+}
+
+.swiper-slide{
+    background: #adaaa8;
+}
+
+.swiper-pagination-bullet-active{
+    background: white;
+}
